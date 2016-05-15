@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anna Marra]]></title>
         <description><![CDATA[Anna Marra]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anna-marra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 01:30:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 01:30:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anna-marra/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/401de01e-c4f0-46bf-82b9-4c7f8b03c43e.jpg">]]></description>
+            <link>https://thegrid.ai/anna-marra/caa3fc31-a140-4b20-95e2-64d62e5b9379/index.html</link>
+            <guid isPermaLink="false">caa3fc31-a140-4b20-95e2-64d62e5b9379</guid>
+            <pubDate>Sun, 15 May 2016 01:29:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14351b2d-e077-4549-a8a2-6d8df898e321.jpg">]]></description>
-            <link>undefinedaf98ec82-1d2a-4859-b8c8-ba1539529df9/index.html</link>
+            <link>https://thegrid.ai/anna-marra/af98ec82-1d2a-4859-b8c8-ba1539529df9/index.html</link>
             <guid isPermaLink="false">af98ec82-1d2a-4859-b8c8-ba1539529df9</guid>
             <pubDate>Sun, 15 May 2016 01:29:55 GMT</pubDate>
         </item>
